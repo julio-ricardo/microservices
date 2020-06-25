@@ -1,0 +1,19 @@
+{
+  "name": "microservices",
+  "version": "1.0.0",
+  "description": "Teste de microservices usando nestjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julio-ricardo/microservices.git"
+  },
+  "author": "Julio Ricardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julio-ricardo/microservices/issues"
+  },
+  "homepage": "https://github.com/julio-ricardo/microservices#readme"
+}
