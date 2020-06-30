@@ -1,5 +1,11 @@
 # Microservices
-Teste de microservices com uma gateway
+Teste de microservices com uma gateway usando o nestJS. Essa API possui três endPoints:
+
+* /ping-a
+* /ping-b
+* /ping-all
+
+O Gateway envia um sinal para os microservices e eles respondem.
 
 ## Teste baseado nos artigos 
 
